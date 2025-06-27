@@ -1,0 +1,12 @@
+{
+  "name": "@wintry-mod/hermes-compiler",
+  "description": "Provides high-level API to work with Hermes bytecode compiler through `emhermesc`.",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
